@@ -7,7 +7,7 @@ A tool for encrypting\decrypting BFTTF\BFOTF from\to TTF\OTF
 * __Platforms supported(for encryption obviously, you can run this only on Windows): NX(Switch), CAFE(Wii U), WIN(MS Windows???)__
 
 #### Usage
-__bfttfutil.exe <mode> <infile> <outfile>__
+__bfttfutil.exe mode infile outfile__
 
 ##### Modes:
 * __-enc_nx //Encrypts BFTTF\BFOTF for use with NX(Switch)__
