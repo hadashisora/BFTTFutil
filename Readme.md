@@ -1,3 +1,4 @@
+### This project has been superseded by [NintyFont](https://github.com/TheFearsomeDzeraora/NintyFont)
 # BFTTFutil
 A tool for encrypting\decrypting BFTTF\BFOTF from\to TTF\OTF
 
